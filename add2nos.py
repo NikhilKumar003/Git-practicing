@@ -1,6 +1,10 @@
 print("enter no")
-a=input()
+a=int(input())
 print("enter 2nd")
-b=input()
+b=int(input())
 c=a+b
 print("sum of 2 is", c)
+
+# print() as an output statement
+# input() as an input statement
+# typecasting = convert string to int or vise versa         
